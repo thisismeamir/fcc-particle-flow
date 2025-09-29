@@ -1,0 +1,3 @@
+[submodule "sources/geant4"]
+	path = sources/geant4
+	url = git@github.com:thisismeamir/geant4.git
